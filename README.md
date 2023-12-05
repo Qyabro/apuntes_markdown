@@ -22,3 +22,14 @@ aqui se encuentran muchos logos: https://simpleicons.org/
 `![Static Badge](https://img.shields.io/badge/Python-version_3.0-blue?logo=PYTHON&logoColor=yellow)`
 
 ![Static Badge](https://img.shields.io/badge/Python-version_3.0-blue?logo=PYTHON&logoColor=yellow)
+
+
+En un solo color:
+`![Static Badge](https://img.shields.io/badge/GET-blue)`
+
+![Static Badge](https://img.shields.io/badge/GET-blue)
+
+Con links:
+`[![Static Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Qyabro)`
+
+[![Static Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Qyabro)
