@@ -15,7 +15,7 @@ Asi se pone icono cuadrado con nombre:
 
 Con ICONOS:
 
-aqui se encuentran mus¡chos logos: https://simpleicons.org/
+aqui se encuentran muchos logos: https://simpleicons.org/
 
 ![Static Badge](https://img.shields.io/badge/[MENSAJE IZQUIERDA]-[MENSAJE DERECHA]-[COLOR]?logo=[NOMBRE DEL LOGO]&logoColor=[COLOR DEL LOGO])
 
