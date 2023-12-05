@@ -5,7 +5,9 @@ En este repositorio se resumen notas sobre la forma de crear documentos MARKDOWN
 https://shields.io/badges/static-badge
 
 Ejemplos:
+
 Asi se pone icono cuadrado con nombre:
+
 ![Static Badge](https://img.shields.io/badge/[MENSAJE IZQUIERDA]-[MENSAJE DERECHA]-[COLOR])
 
 `![Static Badge](https://img.shields.io/badge/mensaje_izquierda-mensaje_derecha-blue)`
@@ -25,11 +27,13 @@ aqui se encuentran muchos logos: https://simpleicons.org/
 
 
 En un solo color:
+
 `![Static Badge](https://img.shields.io/badge/GET-blue)`
 
 ![Static Badge](https://img.shields.io/badge/GET-blue)
 
 Con links:
+
 `[![Static Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Qyabro)`
 
 [![Static Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Qyabro)
