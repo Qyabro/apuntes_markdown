@@ -1,4 +1,4 @@
-# apuntes_markdown
+# apuntes_markdown y Patrones de Diseño
 En este repositorio se resumen notas sobre la forma de crear documentos MARKDOWN con trucos de profesionales
 
 
@@ -37,3 +37,6 @@ Con links:
 `[![Static Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Qyabro)`
 
 [![Static Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Qyabro)
+
+# Patrones de Diseño
+https://refactoring.guru/es/design-patterns/catalog
