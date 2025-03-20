@@ -40,3 +40,5 @@ Con links:
 
 # Patrones de Diseño
 https://refactoring.guru/es/design-patterns/catalog
+https://refactoring.guru/es/design-patterns
+https://refactoring.guru/design-patterns/what-is-pattern
